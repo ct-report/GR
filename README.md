@@ -11,4 +11,4 @@ Build | Link
 
 Build | Link
 ------|-----
-1.0.3 #1358 | https://www.joesandbox.com/analysis/294848/0/html \ https://www.joesandbox.com/analysis/294848/1/html
+1.0.3 #1358 | https://www.joesandbox.com/analysis/294848/0/html https://www.joesandbox.com/analysis/294848/1/html
